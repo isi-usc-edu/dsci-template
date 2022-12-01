@@ -1,1 +1,6 @@
-__pycache__
+# Python
+*.pyc
+
+# Apples
+.DS_Store
+__MACOSX/
