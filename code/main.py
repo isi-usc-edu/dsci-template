@@ -1,6 +1,6 @@
 from get_data import get_launches_data
 
-URL = 'https://dsci.isi.edu/api/launches'
+URL = 'https://dsci.isi.edu/api/launches?interval=date'
 
 
 if __name__ == '__main__':
